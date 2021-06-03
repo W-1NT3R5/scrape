@@ -45,5 +45,5 @@ class _l{
     }
 }
 
-let ab = new _l("https://twitter.com/search?q=zoom%20codes&src=typeahead_click&f=live");
+let ab = new _l("PUT YOUR URL HERE");
 ab._r()._s();
